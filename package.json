@@ -9,7 +9,7 @@
   "categories": [
     "Extension Packs"
   ],
-  "repository": {},
+  "repository": "https://github.com/parksunovo/parksun-pack.git",
   "extensionPack": [ 
     "alefragnani.project-manager", 
     "alphabotsec.vscode-eclipse-keybindings", 
